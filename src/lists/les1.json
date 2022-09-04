@@ -1,0 +1,18 @@
+{
+    "id": "1",
+    "description": "Lesson 1",
+    "words": [
+        {
+            "nl": "Hoi",
+            "en": "Hi"
+        },
+        {
+            "nl": "Hoe gaat het?",
+            "en": "How are you?"
+        },
+        {
+            "nl": "Doei",
+            "en": "Bye"
+        }
+    ]
+}
