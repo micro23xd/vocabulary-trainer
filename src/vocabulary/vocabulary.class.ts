@@ -60,20 +60,17 @@ export class VocabularyList {
         let incorrect = 0
 
         process.on('exit', function () {
-            const sentiment = correct > incorrect ? '🚀' : '🤯'
+            const score = Math.round((correct / (correct + incorrect)) * 100)
+            const sentiment = score >= 60 ? '🚀' : '🤯'
 
             console.log(
-                `\n${sentiment} You got ${correct} correct and ${incorrect} incorrect`
+                `\n${sentiment} You got a score of ${score}% (${correct} correct and ${incorrect} incorrect answers)`
             )
         })
 
         while (index <= rounds) {
             console.log(`Round ${index} of ${rounds}`)
-            if (await this.testVocabulary()) {
-                correct++
-            } else {
-                incorrect++
-            }
+            ;(await this.testVocabulary()) ? correct++ : incorrect++
             index++
         }
     }

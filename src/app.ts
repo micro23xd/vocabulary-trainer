@@ -1,8 +1,7 @@
-import { config } from './config'
-
 const prompt = require('prompt')
 
 import { Lesson } from './vocabulary/vocabulary.types'
+import { config } from './config'
 
 import * as les1Import from './lists/les1.json'
 import { VocabularyList } from './vocabulary/vocabulary.class'
