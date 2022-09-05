@@ -5,13 +5,15 @@ type Config = {
     askingLanguage: Language
     folder: string
     showHint: boolean
+    selectiveLessons?: number[]
 }
 
 const config = {
     askingLanguage: 'nl',
-    rounds: 5,
+    rounds: 10,
     folder: './src/lists',
     showHint: true,
+    // selectiveLessons: [1, 2, 3],
 } as Config
 
 export { Config, config }

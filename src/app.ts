@@ -9,10 +9,10 @@ import * as wordlist from './lists/words.json'
 
 const main = async () => {
     prompt.start()
-    const vocabularyList = new VocabularyList(prompt, config.askingLanguage)
+    const vocabularyList = new VocabularyList(prompt, config)
     vocabularyList.importLesson(wordlist.words as WordPair[])
 
-    await vocabularyList.runTrainer(config.rounds)
+    await vocabularyList.runTrainer()
 }
 
 main()
