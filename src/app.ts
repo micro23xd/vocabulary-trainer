@@ -1,16 +1,11 @@
 const prompt = require('prompt')
 
-import { Lesson } from './vocabulary/vocabulary.types'
 import { VocabularyList } from './vocabulary/vocabulary.class'
 import { config } from './config'
 
-import * as les1Import from './lists/les1.json'
-import * as les2Import from './lists/les2.json'
-import * as les3Import from './lists/les3.json'
-
-let les1: Lesson = <Lesson>les1Import
-let les2: Lesson = <Lesson>les2Import
-let les3: Lesson = <Lesson>les3Import
+import * as les1 from './lists/les1.json'
+import * as les2 from './lists/les2.json'
+import * as les3 from './lists/les3.json'
 
 const main = async () => {
     prompt.start()
