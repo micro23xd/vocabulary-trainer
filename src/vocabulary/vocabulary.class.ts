@@ -36,7 +36,9 @@ export class VocabularyList {
     }
 
     public async testVocabulary(): Promise<boolean> {
+        const { askingLanguage } = this.config
         let result
+
         if (this.words.length === 0) {
             console.log('No words to test')
             return false
@@ -50,20 +52,17 @@ export class VocabularyList {
             )
 
         try {
-            result = await this.prompt.get([this.config.askingLanguage])
+            result = await this.prompt.get([askingLanguage])
         } catch (e) {
             process.exit()
         }
 
         const correct =
-            VocabularyList.cleanWord(result[this.config.askingLanguage]) ===
-            VocabularyList.cleanWord(wordPair[this.config.askingLanguage])
+            VocabularyList.cleanWord(result[askingLanguage]) ===
+            VocabularyList.cleanWord(wordPair[askingLanguage])
 
         console.log(`You were ${correct ? 'correct ✅' : 'incorrect ❌'}!`)
-        console.log(
-            `The correct answer is: ${wordPair[this.config.askingLanguage]}`
-        )
-        console.log('')
+        console.log(`The correct answer is: ${wordPair[askingLanguage]}\n`)
 
         if (correct) this.words.splice(index, 1)
         return correct
