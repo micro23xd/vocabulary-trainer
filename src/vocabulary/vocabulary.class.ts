@@ -2,7 +2,6 @@ import { Language, Lesson, WordPair } from './vocabulary.types'
 
 export class VocabularyList {
     private readonly words: WordPair[] = []
-    private readonly lessonIds: string[] = []
 
     constructor(
         private prompt: any,
@@ -11,52 +10,71 @@ export class VocabularyList {
 
     public importLesson(list: Lesson): void {
         this.words.push(...list.words)
-        this.lessonIds.push(list.id)
     }
 
-    private getRandomWordPair(): WordPair {
+    private getRandomWordPair(): { wordPair: WordPair; index: number } {
         const index = Math.floor(Math.random() * this.words.length)
-        return this.words[index]
+        return {
+            wordPair: this.words[index],
+            index,
+        }
     }
 
     private static cleanWord(word: string): string {
-        return word.replace('?', '').toLowerCase()
+        return word
+            .replace('?', '') // remove question mark
+            .replace(/\([^()]*\)/g, '') // remove parenthesis
+            .replace(/\s+/g, '') // remove whitespace
+            .toLowerCase()
     }
 
     private getPromptLanguage(): Language {
         return this.askingLanguage === 'en' ? 'nl' : 'en'
     }
 
-    public testVocabulary(): boolean {
+    public async testVocabulary(): Promise<boolean> {
         if (this.words.length === 0) {
             console.log('No words to test')
             return false
         }
 
-        const wordPair = this.getRandomWordPair()
+        const { wordPair, index } = this.getRandomWordPair()
         console.log(`Translate: ${wordPair[this.getPromptLanguage()]}`)
-        return this.prompt.get(
-            [this.askingLanguage],
-            (err: Error | null, result: { [key: string]: string }) => {
-                if (err) {
-                    console.error(err)
-                    return false
-                }
-                const correct =
-                    VocabularyList.cleanWord(result[this.askingLanguage]) ===
-                    VocabularyList.cleanWord(wordPair[this.askingLanguage])
+        const result = await this.prompt.get([this.askingLanguage])
 
-                console.log(`You were ${correct ? 'correct!' : 'incorrect!'}`)
-                if (!correct) {
-                    console.log(
-                        `The correct answer is: ${
-                            wordPair[this.askingLanguage]
-                        }`
-                    )
-                }
+        const correct =
+            VocabularyList.cleanWord(result[this.askingLanguage]) ===
+            VocabularyList.cleanWord(wordPair[this.askingLanguage])
 
-                return correct
+        console.log(`You were ${correct ? 'correct' : 'incorrect'}!`)
+        console.log(`The correct answer is: ${wordPair[this.askingLanguage]}`)
+        console.log('')
+
+        if (correct) this.words.splice(index, 1)
+        return correct
+    }
+
+    public async runTrainer(rounds: number): Promise<void> {
+        let index = 1
+        let correct = 0
+        let incorrect = 0
+
+        process.on('exit', function () {
+            const sentiment = correct > incorrect ? '🚀' : '🤯'
+
+            console.log(
+                `\n${sentiment} You got ${correct} correct and ${incorrect} incorrect`
+            )
+        })
+
+        while (index <= rounds) {
+            console.log(`Round ${index} of ${rounds}`)
+            if (await this.testVocabulary()) {
+                correct++
+            } else {
+                incorrect++
             }
-        )
+            index++
+        }
     }
 }

@@ -1,22 +1,22 @@
 {
-  "name": "vocabulary",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "build": "tsc",
-    "dev": "node ./build/app.js",
-    "run:dev": "yarn build && yarn dev"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^18.7.14",
-    "@types/prompt": "^1.1.3",
-    "prettier": "2.7.1",
-    "typescript": "^4.8.2"
-  },
-  "dependencies": {
-    "prompt": "^1.3.0"
-  }
+    "name": "vocabulary",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node ./build/app.js",
+        "dev": "yarn build && yarn start"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^18.7.14",
+        "@types/prompt": "^1.1.3",
+        "prettier": "2.7.1",
+        "typescript": "^4.8.2"
+    },
+    "dependencies": {
+        "prompt": "^1.3.0"
+    }
 }

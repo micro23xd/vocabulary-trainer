@@ -1,3 +1,5 @@
+import { config } from './config'
+
 const prompt = require('prompt')
 
 import { Lesson } from './vocabulary/vocabulary.types'
@@ -8,9 +10,10 @@ let les1: Lesson = <Lesson>les1Import
 
 const main = async () => {
     prompt.start()
-    const vocabularyList = new VocabularyList(prompt, 'nl')
+    const vocabularyList = new VocabularyList(prompt, config.askingLanguage)
     vocabularyList.importLesson(les1)
-    vocabularyList.testVocabulary()
+
+    await vocabularyList.runTrainer(config.rounds)
 }
 
 main()
