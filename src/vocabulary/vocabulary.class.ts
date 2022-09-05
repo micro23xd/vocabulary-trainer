@@ -36,6 +36,7 @@ export class VocabularyList {
     }
 
     public async testVocabulary(): Promise<boolean> {
+        let result
         if (this.words.length === 0) {
             console.log('No words to test')
             return false
@@ -47,7 +48,12 @@ export class VocabularyList {
             console.log(
                 `Hint: This word is from Lesson ${wordPair.lesson}, ${wordPair.category}`
             )
-        const result = await this.prompt.get([this.config.askingLanguage])
+
+        try {
+            result = await this.prompt.get([this.config.askingLanguage])
+        } catch (e) {
+            process.exit()
+        }
 
         const correct =
             VocabularyList.cleanWord(result[this.config.askingLanguage]) ===
