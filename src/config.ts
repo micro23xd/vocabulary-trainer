@@ -8,7 +8,7 @@ type Config = {
     selectiveLessons?: number[]
 }
 
-const config = {
+const defaultConfig = {
     askingLanguage: 'nl',
     rounds: 10,
     folder: './src/lists',
@@ -16,4 +16,4 @@ const config = {
     // selectiveLessons: [1, 2, 3],
 } as Config
 
-export { Config, config }
+export { Config, defaultConfig }
