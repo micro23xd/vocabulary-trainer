@@ -1,4 +1,5 @@
-import { Language, Lesson, WordPair } from './vocabulary.types'
+import { Language, WordPair } from './vocabulary.types'
+import { config } from '../config'
 
 export class VocabularyList {
     private readonly words: WordPair[] = []
@@ -8,8 +9,8 @@ export class VocabularyList {
         private readonly askingLanguage: Language
     ) {}
 
-    public importLesson(list: Lesson): void {
-        this.words.push(...list.words)
+    public importLesson(list: WordPair[]): void {
+        this.words.push(...list)
     }
 
     private getRandomWordPair(): { wordPair: WordPair; index: number } {
@@ -40,6 +41,10 @@ export class VocabularyList {
 
         const { wordPair, index } = this.getRandomWordPair()
         console.log(`Translate: ${wordPair[this.getPromptLanguage()]}`)
+        if (config.showHint)
+            console.log(
+                `Hint: This word is from Lesson ${wordPair.lesson}, ${wordPair.category}`
+            )
         const result = await this.prompt.get([this.askingLanguage])
 
         const correct =

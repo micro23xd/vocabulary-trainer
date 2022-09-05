@@ -1,15 +1,11 @@
 export type Language = 'en' | 'nl'
 
-export interface Lesson {
-    id: string
-    description: string
-    words: WordPair[]
-}
-
 export interface WordPair {
     nl: string
-    nlArticle?: string
+    nlAlternative?: string
     en: string
+    category: string
+    lesson: number
 }
 
-export type VocabularyList = Lesson[]
+export type VocabularyList = WordPair[]
