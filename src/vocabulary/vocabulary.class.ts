@@ -59,7 +59,7 @@ export class VocabularyList {
             VocabularyList.cleanWord(result[this.config.askingLanguage]) ===
             VocabularyList.cleanWord(wordPair[this.config.askingLanguage])
 
-        console.log(`You were ${correct ? 'correct' : 'incorrect'}!`)
+        console.log(`You were ${correct ? 'correct ✅' : 'incorrect ❌'}!`)
         console.log(
             `The correct answer is: ${wordPair[this.config.askingLanguage]}`
         )
