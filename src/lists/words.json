@@ -1,0 +1,4175 @@
+[
+    {
+        "nl": "dag",
+        "en": "goodbye (a bit formal)",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "dag",
+        "en": "hello (a bit formal)",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "doei",
+        "en": "bye",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "gedag zeggen",
+        "en": "to say goodbye",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "goedemiddag",
+        "en": "good afternoon",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "goedemorgen",
+        "en": "good morning",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "goedenacht",
+        "en": "goodnight",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "goedenavond",
+        "en": "good evening",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "goedendag",
+        "en": "good day",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "groeten",
+        "en": "to greet",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "hallo",
+        "en": "hello",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "hoi",
+        "en": "hi",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "slaap lekker",
+        "en": "sleep well",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "tot later",
+        "en": "see you later",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "tot morgen",
+        "en": "see you tomorrow",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "tot straks",
+        "en": "see you soon",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "tot volgende week",
+        "en": "see you next week",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "tot ziens",
+        "en": "see you",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "welterusten",
+        "en": "sleep well",
+        "lesson": 1,
+        "category": "Groeten en gedag zeggen"
+    },
+    {
+        "nl": "dame (de)",
+        "en": "the lady",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "heer (de)",
+        "en": "the gentleman",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "jongen (de)",
+        "en": "the boy",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "kind (het)",
+        "en": "the child",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "kinderen (de)",
+        "en": "the children",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "land (het)",
+        "en": "the country",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "man (de)",
+        "en": "the man",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "meisje (het)",
+        "en": "the girl",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "meneer",
+        "en": "sir",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "mens (de)",
+        "en": "the human being",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "mevrouw",
+        "en": "madam",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "volwassene (de)",
+        "en": "the adult",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "vrouw (de)",
+        "en": "the woman",
+        "lesson": 1,
+        "category": "Mensen"
+    },
+    {
+        "nl": "alfabet (het)",
+        "en": "the alphabet",
+        "lesson": 1,
+        "category": "Een taal leren"
+    },
+    {
+        "nl": "klank (de)",
+        "en": "the sound",
+        "lesson": 1,
+        "category": "Een taal leren"
+    },
+    {
+        "nl": "letter (de)",
+        "en": "the letter",
+        "lesson": 1,
+        "category": "Een taal leren"
+    },
+    {
+        "nl": "uit je hoofd",
+        "en": "by heart",
+        "lesson": 1,
+        "category": "Een taal leren"
+    },
+    {
+        "nl": "woord (het)",
+        "en": "the word",
+        "lesson": 1,
+        "category": "Een taal leren"
+    },
+    {
+        "nl": "zin (de)",
+        "en": "the sentence",
+        "lesson": 1,
+        "category": "Een taal leren"
+    },
+    {
+        "nl": "achternaam (de)",
+        "en": "the surname",
+        "lesson": 1,
+        "category": "Persoonlijke informatie"
+    },
+    {
+        "nl": "adres (het)",
+        "en": "the address",
+        "lesson": 1,
+        "category": "Persoonlijke informatie"
+    },
+    {
+        "nl": "geboortedatum (de)",
+        "en": "the date of birth",
+        "lesson": 1,
+        "category": "Persoonlijke informatie"
+    },
+    {
+        "nl": "land (het)",
+        "en": "the country",
+        "lesson": 1,
+        "category": "Persoonlijke informatie"
+    },
+    {
+        "nl": "naam (de)",
+        "en": "the name",
+        "lesson": 1,
+        "category": "Persoonlijke informatie"
+    },
+    {
+        "nl": "voornaam (de)",
+        "en": "the first name",
+        "lesson": 1,
+        "category": "Persoonlijke informatie"
+    },
+    {
+        "nl": "achternaam (de)",
+        "en": "the surname",
+        "lesson": 1,
+        "category": "Persoonlijke informatie"
+    },
+    {
+        "nl": "postcode (de)",
+        "en": "the postcode",
+        "lesson": 1,
+        "category": "Persoonlijke informatie"
+    },
+    {
+        "nl": "gaan",
+        "en": "to go",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "hebben",
+        "en": "to have",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "heten",
+        "en": "to be named/called",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "kennismaken",
+        "en": "to meet",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "komen",
+        "en": "to come",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "leren",
+        "en": "to learn",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "lezen",
+        "en": "to read",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "spellen",
+        "en": "to spell",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "spreken",
+        "en": "to talk",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "voorstellen",
+        "en": "to introduce",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "werken",
+        "en": "to work",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "wonen",
+        "en": "to live",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "zeggen",
+        "en": "to say",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "zijn",
+        "en": "to be",
+        "lesson": 1,
+        "category": "Werkwoorden"
+    },
+    {
+        "nl": "Aangenaam!",
+        "en": "Nice to meet you!",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "chocolademelk (de)",
+        "en": "the chocolate milk",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "dat klopt",
+        "en": "that's correct",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "drinken",
+        "en": "to drink",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "een keer",
+        "en": "once",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "gaan",
+        "en": "to go",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "gezellig",
+        "en": "nice, cosy",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Heb je zin om...?",
+        "en": "Do you fancy...?",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "jammer",
+        "en": "that's a pity",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "klinken",
+        "en": "to sound",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "lijken",
+        "en": "to seem",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "maar",
+        "en": "but",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "melk (de)",
+        "en": "the milk",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "misschien",
+        "en": "maybe",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "niet",
+        "en": "not",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "stad (de)",
+        "en": "the city",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "suiker (de)",
+        "en": "the sugar",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "thee (de)",
+        "en": "the tea",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "trein (de)",
+        "en": "the train",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "volgende",
+        "en": "next",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "waarom",
+        "en": "why",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "week (de)",
+        "en": "the week",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "willen",
+        "en": "to want",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "zin hebben in",
+        "en": "to be in the mood for something",
+        "lesson": 2,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "moeder (de)",
+        "en": "the mother",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "vader (de)",
+        "en": "the father",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "ouder(s) (de)",
+        "en": "the parent(s)",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "mama (de)",
+        "en": "the mum",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "papa (de)",
+        "en": "the dad",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "dochter (de)",
+        "en": "the daughter",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "zoon (de)",
+        "en": "the son",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "kind (het)",
+        "en": "the child",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "kinderen (de)",
+        "en": "the children",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "zus (de)",
+        "en": "the sister",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "zusje (het)",
+        "en": "the little sister",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "broer (de)",
+        "en": "the brother",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "broertje (het)",
+        "en": "the little brother",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "grootmoeder (de)",
+        "en": "the grandmother",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "grootvader (de)",
+        "en": "the grandfather",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "grootouder(s) (de)",
+        "en": "the grandparent(s)",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "oma (de)",
+        "en": "the grandma",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "opa (de)",
+        "en": "the granddad",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "kleindochter (de)",
+        "en": "the granddaughter",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "kleinzoon (de)",
+        "en": "the grandson",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "kleinkind (de)",
+        "en": "the grandchild",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "kleinkinderen (de)",
+        "en": "the grandchildren",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "tante (de)",
+        "en": "the aunt",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "oom (de)",
+        "en": "the uncle",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "nicht (de)",
+        "en": "the cousin",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "nichtje (het)",
+        "en": "the niece",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "neef (de)",
+        "en": "the cousin",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "neefje (het)",
+        "en": "the nephew",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "vrouw (de)",
+        "en": "the woman",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "man (de)",
+        "en": "the man",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "echtgenoot (de)",
+        "en": "the husband",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "echtgenote (de)",
+        "en": "the wife",
+        "lesson": 2,
+        "category": "Familieleden"
+    },
+    {
+        "nl": "aardappel (de)",
+        "en": "the potato",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "bank (de)",
+        "en": "the couch",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "blij",
+        "en": "happy",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "boos",
+        "en": "angry",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "eten (het)",
+        "en": "the food",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "grap (de)",
+        "en": "the joke",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "huis (het)",
+        "en": "the house",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "jurk (de)",
+        "en": "the dress",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "kijken",
+        "en": "to watch / to look",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "koken",
+        "en": "to cook",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "kopen",
+        "en": "to buy",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "lachen",
+        "en": "to laugh",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "lopen",
+        "en": "to walk",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "nieuw",
+        "en": "new",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "samen",
+        "en": "together",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "schoen (de)",
+        "en": "the shoe",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "straat (de)",
+        "en": "the street",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "tekenen",
+        "en": "to draw",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "tekening (de)",
+        "en": "the drawing",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "tv (de) / televisie (de)",
+        "en": "the tv / the television",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "vechten",
+        "en": "to fight",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "verliefd",
+        "en": "in love",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "villa (de)",
+        "en": "the villa",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "zitten",
+        "en": "to sit",
+        "lesson": 2,
+        "category": "Oefening 4 en 6"
+    },
+    {
+        "nl": "buiten",
+        "en": "outside",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "dag",
+        "en": "day",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "bus (de)",
+        "en": "the bus",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "tijd (de)",
+        "en": "the time",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "week (de)",
+        "en": "the week",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "andere keer (een)",
+        "en": "another time",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "elkaar",
+        "en": "each other",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Even denken...",
+        "en": "Let me think...",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "goed",
+        "en": "good",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Hé jongens",
+        "en": "Hey guys",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "helaas",
+        "en": "unfortunately",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "hele",
+        "en": "whole",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "idee (het)",
+        "en": "the idea",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "uur (het)",
+        "en": "the hour",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "weekend (het)",
+        "en": "the weekend",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Ik heb er zin in!",
+        "en": "I'm looking forward to it!",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "ik ook",
+        "en": "me too",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Ik wil graag",
+        "en": "I'd like to",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "komen",
+        "en": "to come",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "leuk",
+        "en": "nice",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "ontmoeten",
+        "en": "to meet",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "sporten",
+        "en": "to exercise",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "thuis",
+        "en": "at home",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Tot woensdag!",
+        "en": "See you on Wednesday!",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "van ... tot ...",
+        "en": "from ... until ...",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vrij",
+        "en": "free",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "werken",
+        "en": "to work",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Wie gaat er mee?",
+        "en": "Who's coming along?",
+        "lesson": 3,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vandaag",
+        "en": "today",
+        "lesson": 3,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "morgen",
+        "en": "tomorrow",
+        "lesson": 3,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "overmorgen",
+        "en": "the day after tomorrow",
+        "lesson": 3,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "gisteren",
+        "en": "yesterday",
+        "lesson": 3,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "eergisteren",
+        "en": "the day before yesterday",
+        "lesson": 3,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "vorige",
+        "en": "last",
+        "lesson": 3,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "volgende",
+        "en": "next",
+        "lesson": 3,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "geleden",
+        "en": "ago",
+        "lesson": 3,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "bed (het)",
+        "en": "the bed",
+        "lesson": 3,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "boodschappen doen",
+        "en": "to do groceries",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "boterham (de)",
+        "en": "the sandwich",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "brood (het)",
+        "en": "the bread",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "bruin",
+        "en": "brown",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "dromen",
+        "en": "to dream",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "duren",
+        "en": "to last / take",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "elke",
+        "en": "each / every",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "film (de)",
+        "en": "the movie",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "geld (het)",
+        "en": "the money",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "geldautomaat (de)",
+        "en": "the ATM",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "Ik wil graag",
+        "en": "I would like",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "jas (de)",
+        "en": "the jacket / the coat",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "ontbijten",
+        "en": "to have breakfast",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "pinnen",
+        "en": "to pay by card",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "romantisch",
+        "en": "romantic",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "school (de)",
+        "en": "the school",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "slapen",
+        "en": "to sleep",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "sluiten",
+        "en": "to close",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "winkel (de)",
+        "en": "the shop",
+        "lesson": 3,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "afspreken (met)",
+        "en": "to meet up (with)",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "dansen",
+        "en": "to dance",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "eten",
+        "en": "to eat",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "huiswerk (het)",
+        "en": "the homework",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "luisteren",
+        "en": "to listen",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "maken",
+        "en": "to do / make",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "muziek (de)",
+        "en": "the music",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "tuin (de)",
+        "en": "the garden",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "tv kijken",
+        "en": "to watch television",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "vakantie (de)",
+        "en": "the holiday",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "winkelen",
+        "en": "to go shopping",
+        "lesson": 3,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "maandag",
+        "en": "Monday",
+        "lesson": 3,
+        "category": "De dagen van de week"
+    },
+    {
+        "nl": "dinsdag",
+        "en": "Tuesday",
+        "lesson": 3,
+        "category": "De dagen van de week"
+    },
+    {
+        "nl": "woensdag",
+        "en": "Wednesday",
+        "lesson": 3,
+        "category": "De dagen van de week"
+    },
+    {
+        "nl": "donderdag",
+        "en": "Thursday",
+        "lesson": 3,
+        "category": "De dagen van de week"
+    },
+    {
+        "nl": "vrijdag",
+        "en": "Friday",
+        "lesson": 3,
+        "category": "De dagen van de week"
+    },
+    {
+        "nl": "zaterdag",
+        "en": "Saturday",
+        "lesson": 3,
+        "category": "De dagen van de week"
+    },
+    {
+        "nl": "zondag",
+        "en": "Sunday",
+        "lesson": 3,
+        "category": "De dagen van de week"
+    },
+    {
+        "nl": "januari",
+        "en": "January",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "februari",
+        "en": "February",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "maart",
+        "en": "March",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "april",
+        "en": "April",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "mei",
+        "en": "May",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "juni",
+        "en": "June",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "juli",
+        "en": "July",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "augustus",
+        "en": "August",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "september",
+        "en": "September",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "oktober",
+        "en": "October",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "november",
+        "en": "November",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "december",
+        "en": "December",
+        "lesson": 3,
+        "category": "De maanden van het jaar"
+    },
+    {
+        "nl": "de morgen",
+        "en": "the morning",
+        "nlAlternative": "de ochtend",
+        "lesson": 3,
+        "category": "De dagdelen"
+    },
+    {
+        "nl": "de middag",
+        "en": "the afternoon",
+        "lesson": 3,
+        "category": "De dagdelen"
+    },
+    {
+        "nl": "de avond",
+        "en": "the evening",
+        "lesson": 3,
+        "category": "De dagdelen"
+    },
+    {
+        "nl": "de nacht",
+        "en": "the night",
+        "lesson": 3,
+        "category": "De dagdelen"
+    },
+    {
+        "nl": "‘s morgens",
+        "en": "in the morning",
+        "nlAlternative": "‘s ochtends",
+        "lesson": 3,
+        "category": "De dagdelen"
+    },
+    {
+        "nl": "‘s middags",
+        "en": "in the afternoon",
+        "lesson": 3,
+        "category": "De dagdelen"
+    },
+    {
+        "nl": "‘s avonds",
+        "en": "in the evening",
+        "lesson": 3,
+        "category": "De dagdelen"
+    },
+    {
+        "nl": "‘s nachts",
+        "en": "at night",
+        "lesson": 3,
+        "category": "De dagdelen"
+    },
+    {
+        "nl": "Wanneer?",
+        "en": "When?",
+        "lesson": 3,
+        "category": "Wanneer?"
+    },
+    {
+        "nl": "op maandag",
+        "en": "on Monday",
+        "lesson": 3,
+        "category": "Wanneer?"
+    },
+    {
+        "nl": "op woensdagmiddag",
+        "en": "on Wednesday afternoon",
+        "lesson": 3,
+        "category": "Wanneer?"
+    },
+    {
+        "nl": "om acht uur",
+        "en": "at eight o’clock",
+        "lesson": 3,
+        "category": "Wanneer?"
+    },
+    {
+        "nl": "in januari",
+        "en": "in January",
+        "lesson": 3,
+        "category": "Wanneer?"
+    },
+    {
+        "nl": "in het weekend",
+        "en": "at the weekend",
+        "lesson": 3,
+        "category": "Wanneer?"
+    },
+    {
+        "nl": "Hoe vaak?",
+        "en": "How often?",
+        "lesson": 3,
+        "category": "Hoe vaak?"
+    },
+    {
+        "nl": "elke dag",
+        "en": "every day",
+        "lesson": 3,
+        "category": "Hoe vaak?"
+    },
+    {
+        "nl": "één keer per week",
+        "en": "once a week",
+        "lesson": 3,
+        "category": "Hoe vaak?"
+    },
+    {
+        "nl": "twee keer per maand",
+        "en": "twice a month",
+        "lesson": 3,
+        "category": "Hoe vaak?"
+    },
+    {
+        "nl": "drie keer per jaar",
+        "en": "three times a year",
+        "lesson": 3,
+        "category": "Hoe vaak?"
+    },
+    {
+        "nl": "nooit",
+        "en": "never",
+        "lesson": 3,
+        "category": "Hoe vaak?"
+    },
+    {
+        "nl": "afspraak (de)",
+        "en": "the appointment",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "appel (de)",
+        "en": "the apple",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "café (het)",
+        "en": "the cafe",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "centrum (het)",
+        "en": "the centre",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "even kijken...",
+        "en": "let’s see...",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "fruit (het)",
+        "en": "the fruit",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "geen probleem",
+        "en": "no problem",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "goed idee",
+        "en": "good idea",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "koffie (de)",
+        "en": "the coffee",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "lekker",
+        "en": "good / delicious",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "markt (de)",
+        "en": "the market",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "nemen",
+        "en": "to take",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "noot (de)",
+        "en": "the nut",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "peer (de)",
+        "en": "the pear",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "prima",
+        "en": "fine",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "sap (het)",
+        "en": "the juice",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "snel",
+        "en": "fast, quick",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "sorry",
+        "en": "sorry",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "sportschool (de)",
+        "en": "the gym",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "taartje (het)",
+        "en": "the little cake",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "te laat",
+        "en": "too late",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "tot straks",
+        "en": "see you soon",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "tram",
+        "en": "the tram",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "trouwens",
+        "en": "by the way",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "wachten op",
+        "en": "to wait for",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "wachten",
+        "en": "to wait",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "willen",
+        "en": "want",
+        "lesson": 4,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "beginnen",
+        "en": "to start, to begin",
+        "lesson": 4,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "boodschappen doen",
+        "en": "to do grocery shopping",
+        "lesson": 4,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "douchen",
+        "en": "to shower",
+        "lesson": 4,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "lunchen",
+        "en": "to eat lunch",
+        "lesson": 4,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "naar bed gaan",
+        "en": "to go to bed",
+        "lesson": 4,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "ontbijten",
+        "en": "to eat breakfast",
+        "lesson": 4,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "opstaan",
+        "en": "to wake up",
+        "lesson": 4,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "sporten",
+        "en": "to exercise",
+        "lesson": 4,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "tanden poetsen",
+        "en": "to brush teeth",
+        "lesson": 4,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "gum (de)",
+        "en": "the eraser",
+        "lesson": 4,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "lesboek (het)",
+        "en": "the course book / the study book",
+        "lesson": 4,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "pen (de)",
+        "en": "the pen",
+        "lesson": 4,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "potlood",
+        "en": "the pencil",
+        "lesson": 4,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "puntenslijper (de)",
+        "en": "the sharpener",
+        "lesson": 4,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "schrift (het)",
+        "en": "the notebook",
+        "lesson": 4,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "blad papier (het)",
+        "en": "the sheet of paper",
+        "lesson": 4,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "woordenboek (het)",
+        "en": "the dictionary",
+        "lesson": 4,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "bloem (de)",
+        "en": "the flower",
+        "lesson": 4,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "ei (het)",
+        "en": "the egg",
+        "lesson": 4,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "fles (de)",
+        "en": "the bottle",
+        "lesson": 4,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "horloge (het)",
+        "en": "the watch",
+        "lesson": 4,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "klok (de)",
+        "en": "the clock",
+        "lesson": 4,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "koekje (het)",
+        "en": "the cookie",
+        "lesson": 4,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "raam (het)",
+        "en": "the window",
+        "lesson": 4,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "sleutel (de)",
+        "en": "the key",
+        "lesson": 4,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "wekker (de)",
+        "en": "the alarm clock",
+        "lesson": 4,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "bedankt",
+        "en": "thank you",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "daar",
+        "en": "there",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "daarna",
+        "en": "after that",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "dan",
+        "en": "then",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "druk",
+        "en": "busy",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Een fijne dag!",
+        "en": "Have a nice day!",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "eerst",
+        "en": "first",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Graag gedaan.",
+        "en": "You’re welcome.",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "heel erg",
+        "en": "very much",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "hopen",
+        "en": "to hope",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "kwijt",
+        "en": "lost",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "links",
+        "en": "left",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "moeten",
+        "en": "must, have to",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "mogen",
+        "en": "may",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "onthouden",
+        "en": "to remember",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "de straat oversteken",
+        "en": "to cross the street",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "pardon",
+        "en": "excuse me",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "rechtdoor",
+        "en": "straight ahead",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "rechts",
+        "en": "right",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "station (het)",
+        "en": "the station",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "terug",
+        "en": "back",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "uitkijken",
+        "en": "to watch out",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "verkeerd",
+        "en": "wrong",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vervelend",
+        "en": "annoying",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "weg (de)",
+        "en": "the way",
+        "lesson": 5,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "einde (het)",
+        "en": "the end",
+        "lesson": 5,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "hoek (de)",
+        "en": "the corner",
+        "lesson": 5,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "kruising (de)",
+        "en": "the crossroads / intersection",
+        "nlAlternative": "kruispunt (het)",
+        "lesson": 5,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "linkerhand (de)",
+        "en": "the left-hand side",
+        "lesson": 5,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "plein (het)",
+        "en": "the square",
+        "lesson": 5,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "rechterhand (de)",
+        "en": "the right-hand side",
+        "lesson": 5,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "splitsing (de)",
+        "en": "the junction",
+        "lesson": 5,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "bank (de)",
+        "en": "the bank",
+        "lesson": 5,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "bekend",
+        "en": "familiar",
+        "lesson": 5,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "helpen",
+        "en": "to help",
+        "lesson": 5,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "iemand anders",
+        "en": "someone else",
+        "lesson": 5,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "jammer",
+        "en": "too bad / what a pity",
+        "lesson": 5,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "jazeker",
+        "en": "yes, sure",
+        "lesson": 5,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "spoor (het)",
+        "en": "the train track",
+        "lesson": 5,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "zoeken",
+        "en": "to look for / to search",
+        "lesson": 5,
+        "category": "Oefening 5"
+    },
+    {
+        "nl": "afspreken",
+        "en": "to make an appointment / to meet up",
+        "lesson": 5,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "autorijden",
+        "en": "to drive a car",
+        "lesson": 5,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "mobiel (de)",
+        "en": "the mobile phone",
+        "lesson": 5,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "telefoneren",
+        "en": "to call",
+        "lesson": 5,
+        "category": "Oefening 10"
+    },
+    {
+        "nl": "beter",
+        "en": "better",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "broek (de)",
+        "en": "the trousers",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "donker",
+        "en": "dark",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "elegant",
+        "en": "elegant",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "fantastisch",
+        "en": "fantastic",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "goedkoop",
+        "en": "cheap",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "hip",
+        "en": "trendy",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "jas (de)",
+        "en": "the jacket / the coat",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Kijk eens hier!",
+        "en": "Look here!",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "kort",
+        "en": "short",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "kosten",
+        "en": "to cost",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "lang",
+        "en": "long",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "licht",
+        "en": "light",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "mooi",
+        "en": "beautiful",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "nieuw",
+        "en": "new",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "paskamer (de)",
+        "en": "the fitting room",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "passen",
+        "en": "to fit / to try on",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "sorry",
+        "en": "excuse me",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "toch",
+        "en": "after all",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Veel plezier!",
+        "en": "Enjoy!",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "verkopen",
+        "en": "to sell",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vinden",
+        "en": "to think (opinion)",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "warm",
+        "en": "warm",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "winter (de)",
+        "en": "the winter",
+        "lesson": 6,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "blouse (de)",
+        "en": "the blouse",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "broek (de)",
+        "en": "the trousers",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "gympen (de)",
+        "en": "the sneakers / trainers",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "(over)hemd (het)",
+        "en": "the shirt",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "jas (de)",
+        "en": "the coat",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "jasje (het)",
+        "en": "the jacket",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "jurk (de)",
+        "en": "the dress",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "rok (de)",
+        "en": "the skirt",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "schoenen (de)",
+        "en": "the shoes",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "sokken (de)",
+        "en": "the socks",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "t-shirt (het)",
+        "en": "the t-shirt",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "vest (het)",
+        "en": "the cardigan",
+        "lesson": 6,
+        "category": "De kleding"
+    },
+    {
+        "nl": "blauw",
+        "en": "blue",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "bruin",
+        "en": "brown",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "donkerblauw",
+        "en": "dark blue",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "geel",
+        "en": "yellow",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "grijs",
+        "en": "grey",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "groen",
+        "en": "green",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "lichtblauw",
+        "en": "light blue",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "oranje",
+        "en": "orange",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "paars",
+        "en": "purple",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "rood",
+        "en": "red",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "roze",
+        "en": "pink",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "wit",
+        "en": "white",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "zwart",
+        "en": "black",
+        "lesson": 6,
+        "category": "De kleuren"
+    },
+    {
+        "nl": "hard",
+        "en": "loud",
+        "lesson": 6,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "huilen",
+        "en": "to cry",
+        "lesson": 6,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "ijsje (het)",
+        "en": "the ice cream",
+        "lesson": 6,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "arm (de)",
+        "en": "the arm",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "been (het)",
+        "en": "the leg",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "borst (de)",
+        "en": "the breast / the chest",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "buik (de)",
+        "en": "the belly",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "gezicht (het)",
+        "en": "the face",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "haar (het)",
+        "en": "the hair",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "hand (de)",
+        "en": "the hand",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "hoofd (het)",
+        "en": "the head",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "knie (de)",
+        "en": "the knee",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "lip (de)",
+        "en": "the lip",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "mond (de)",
+        "en": "the mouth",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "nek (de)",
+        "en": "the neck",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "neus (de)",
+        "en": "the nose",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "oog (het)",
+        "en": "the eye",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "oor (het)",
+        "en": "the ear",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "rug (de)",
+        "en": "the back",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "schouder (de)",
+        "en": "the shoulder",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "teen (de)",
+        "en": "the toe",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "vinger (de)",
+        "en": "the finger",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "voet (de)",
+        "en": "the foot",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "wang (de)",
+        "en": "the cheek",
+        "lesson": 7,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "al",
+        "en": "already",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "alweer",
+        "en": "again",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "baas (de)",
+        "en": "the boss",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "beterschap",
+        "en": "get well soon",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "buigen",
+        "en": "to bow, to bend",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "buikpijn (de)",
+        "en": "the stomach ache",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "dokter (de)",
+        "en": "the doctor",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "een beetje",
+        "en": "a little bit",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "erg",
+        "en": "very",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "fysiotherapeut (de)",
+        "en": "the physiotherapist",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "hard",
+        "en": "hard (work)",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "hoofdpijn (de)",
+        "en": "the headache",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "keelontsteking (de)",
+        "en": "the inflammation of the throat",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "keelpijn (de)",
+        "en": "the sore throat",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "klacht (de)",
+        "en": "the complaint, the pain",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "klant (de)",
+        "en": "the customer (in this case: the patient)",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "last hebben van",
+        "en": "to suffer from",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "medicijn (het)",
+        "en": "the medicine",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "onderzoeken",
+        "en": "to research, to examine",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "paracetamol (de)",
+        "en": "the paracetamol",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "proberen",
+        "en": "to try",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "probleem (het)",
+        "en": "the problem",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "recept (het)",
+        "en": "the prescription",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "rugpijn (de)",
+        "en": "the backache",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "rustig aan doen",
+        "en": "to take it easy",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "specialist (de)",
+        "en": "the specialist",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "sterkte",
+        "en": "hang in there (\"I wish you strength\")",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "stress (de)",
+        "en": "the stress",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "verwijsbrief (de)",
+        "en": "the referral",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vrij",
+        "en": "free / off",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "zelf",
+        "en": "myself, yourself, ...",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "ziekenhuis (het)",
+        "en": "the hospital",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "zuchten",
+        "en": "to sigh",
+        "lesson": 7,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "bad (het)",
+        "en": "the bath",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "badkamer (de)",
+        "en": "the bathroom",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "bank (de)",
+        "en": "the couch",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "bed (het)",
+        "en": "the bed",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "dak (het)",
+        "en": "the roof",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "deur (de)",
+        "en": "the door",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "douche (de)",
+        "en": "the shower",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "fornuis (het)",
+        "en": "the stove",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "gang (de)",
+        "en": "the corridor, the hallway",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "kast (de)",
+        "en": "the closet",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "keuken (de)",
+        "en": "the kitchen",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "kleed (het)",
+        "en": "the carpet",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "koelkast (de)",
+        "en": "the refrigerator",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "lamp (de)",
+        "en": "the lamp",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "muur (de)",
+        "en": "the wall",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "plant (de)",
+        "en": "the plant",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "raam (het)",
+        "en": "the window",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "schilderij (het)",
+        "en": "the painting",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "slaapkamer (de)",
+        "en": "the bedroom",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "stoel (de)",
+        "en": "the chair",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "tafel (de)",
+        "en": "the table",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "televisie (de)",
+        "en": "the television",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "trap (de)",
+        "en": "the stairs",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "tuin (de)",
+        "en": "the garden",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "wc (de)",
+        "en": "the toilet",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "woonkamer (de)",
+        "en": "the living room",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "zolder (de)",
+        "en": "the attic",
+        "lesson": 8,
+        "category": "Oefening 1"
+    },
+    {
+        "nl": "appartement (het)",
+        "en": "the apartment",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "besteden",
+        "en": "to spend",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "binnen",
+        "en": "inside",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "donker",
+        "en": "dark",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "hoek (de)",
+        "en": "the corner",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "kapstok (de)",
+        "en": "the coat stand",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "laatste",
+        "en": "last",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "laten",
+        "en": "to let/leave",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "laten zien",
+        "en": "to show ",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "luxe",
+        "en": "luxurious",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "meubels (de)",
+        "en": "the furniture",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "op bezoek",
+        "en": "to visit",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "waar",
+        "en": "true",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "warm",
+        "en": "warm",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "zacht",
+        "en": "soft",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "zelfs",
+        "en": "even",
+        "lesson": 8,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "arm",
+        "en": "poor",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "dik",
+        "en": "fat, thick",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "donker",
+        "en": "dark",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "dun",
+        "en": "slim, thin",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "duur",
+        "en": "expensive",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "goed",
+        "en": "good",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "groot",
+        "en": "big, large",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "hard",
+        "en": "hard",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "hoog",
+        "en": "high",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "klein",
+        "en": "small",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "koud",
+        "en": "cold",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "laag",
+        "en": "low",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "langzaam",
+        "en": "slow",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "lekker",
+        "en": "tasty",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "lelijk",
+        "en": "ugly",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "licht",
+        "en": "light",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "moeilijk",
+        "en": "difficult",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "mooi",
+        "en": "beautiful",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "nieuw",
+        "en": "new",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "oud",
+        "en": "old",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "rijk",
+        "en": "rich",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "schoon",
+        "en": "clean",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "slecht",
+        "en": "bad",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "slim",
+        "en": "clever",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "snel",
+        "en": "fast",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "vaak",
+        "en": "often",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "vies",
+        "en": "dirty",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "warm",
+        "en": "warm",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "zacht",
+        "en": "soft",
+        "lesson": 8,
+        "category": "Oefening 8"
+    },
+    {
+        "nl": "aannemen",
+        "en": "to take",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "aardappel (de)",
+        "en": "the potato",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "alvast",
+        "en": "already",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "bestellen",
+        "en": "to order",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "boerenkool (de)",
+        "en": "the kale",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Eet smakelijk!",
+        "en": "Enjoy your meal! / Bon appetit!",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "gehaktbal (de)",
+        "en": "the meat ball",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "glas (het)",
+        "en": "the glass",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "glazen (de)",
+        "en": "the glasses",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "groente (de)",
+        "en": "the vegetable",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "groentesoep (de)",
+        "en": "the vegetable soup",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "menukaart (de)",
+        "en": "the menu",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "rekening (de)",
+        "en": "the bill",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "reserveren",
+        "en": "to make a reservation",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "ui (de)",
+        "en": "the onion",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "wat",
+        "en": "something",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "welkom",
+        "en": "welcome",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "wortel (de)",
+        "en": "the carrot",
+        "lesson": 9,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "hoofdgerecht (het)",
+        "en": "the main course",
+        "lesson": 9,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "nagerecht (het)",
+        "en": "the dessert",
+        "lesson": 9,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "rekening (de)",
+        "en": "the bill",
+        "lesson": 9,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "smaken",
+        "en": "to taste",
+        "lesson": 9,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "voorgerecht (het)",
+        "en": "the starter",
+        "lesson": 9,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "wens (de)",
+        "en": "the wish",
+        "lesson": 9,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "heerlijk",
+        "en": "delicious",
+        "lesson": 9,
+        "category": "Oefening 3"
+    },
+    {
+        "nl": "leggen",
+        "en": "to lay, to put (horizontal)",
+        "lesson": 9,
+        "category": "Oefening 6"
+    },
+    {
+        "nl": "leven",
+        "en": "to live",
+        "lesson": 9,
+        "category": "Oefening 6"
+    },
+    {
+        "nl": "reizen",
+        "en": "to travel",
+        "lesson": 9,
+        "category": "Oefening 6"
+    },
+    {
+        "nl": "sleutel (de)",
+        "en": "the key",
+        "lesson": 9,
+        "category": "Oefening 6"
+    },
+    {
+        "nl": "tekenen",
+        "en": "to draw",
+        "lesson": 9,
+        "category": "Oefening 6"
+    },
+    {
+        "nl": "bioscoop (de)",
+        "en": "the cinema",
+        "lesson": 9,
+        "category": "Oefening 10,11"
+    },
+    {
+        "nl": "bos (het)",
+        "en": "the forest",
+        "lesson": 9,
+        "category": "Oefening 10,11"
+    },
+    {
+        "nl": "hond (de)",
+        "en": "the dog",
+        "lesson": 9,
+        "category": "Oefening 10,11"
+    },
+    {
+        "nl": "muziek (de)",
+        "en": "the music",
+        "lesson": 9,
+        "category": "Oefening 10,11"
+    },
+    {
+        "nl": "stoppen",
+        "en": "to stop",
+        "lesson": 9,
+        "category": "Oefening 10,11"
+    },
+    {
+        "nl": "strand (het)",
+        "en": "the beach",
+        "lesson": 9,
+        "category": "Oefening 10,11"
+    },
+    {
+        "nl": "vliegtuig (het)",
+        "en": "the aeroplane",
+        "lesson": 9,
+        "category": "Oefening 10,11"
+    },
+    {
+        "nl": "wandelen",
+        "en": "to walk, to hike",
+        "lesson": 9,
+        "category": "Oefening 10,11"
+    },
+    {
+        "nl": "activiteit (de)",
+        "en": "the activity",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "als",
+        "en": "as",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "andere",
+        "en": "other",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "betekenen",
+        "en": "to mean",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "bezoeken",
+        "en": "to visit",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "concert (het)",
+        "en": "the concert",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "daarom",
+        "en": "therefore, because of that",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "druk",
+        "en": "busy, crowded",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "eerste",
+        "en": "first",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "eigenlijk",
+        "en": "actually",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "er zijn",
+        "en": "there are",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "even denken",
+        "en": "let me think",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "favoriet",
+        "en": "favourite",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "heel",
+        "en": "very",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "ieder",
+        "en": "every",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "iedereen",
+        "en": "everybody",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "iets",
+        "en": "something",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "informatie (de)",
+        "en": "the information",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "kennen",
+        "en": "to know",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "kleedjesmarkt (de)",
+        "en": "the flea market",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "koning (de)",
+        "en": "the king",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "mensen (de)",
+        "en": "the people",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "misschien",
+        "en": "maybe",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "samen",
+        "en": "together",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "sommige ",
+        "en": "some",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "spullen (de)",
+        "en": "the stuff, the things",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "..., toch?",
+        "en": "..., right?",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "toen",
+        "en": "then (past)",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vaak",
+        "en": "often",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Veel plezier!",
+        "en": "Enjoy!",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "verjaardag (de)",
+        "en": "the birthday",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "verkopen",
+        "en": "to sell",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vertellen",
+        "en": "to tell",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vieren",
+        "en": "to celebrate",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "volgens mij",
+        "en": "in my opinion (“according to me”)",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "voor het eerst",
+        "en": "for the first time",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vooral",
+        "en": "mainly, especially",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vorig jaar",
+        "en": "last year",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vragen stellen",
+        "en": "to ask questions",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "was",
+        "en": "was (past tense of ‘zijn’)",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "Wat leuk!",
+        "en": "How nice!",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "weten",
+        "en": "to know",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "woonplaats (de)",
+        "en": "the residence",
+        "lesson": 10,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "dragen",
+        "en": "to wear",
+        "lesson": 10,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "duren",
+        "en": "to last",
+        "lesson": 10,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "gerecht (het)",
+        "en": "the dish",
+        "lesson": 10,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "kleding (de)",
+        "en": "the clothes",
+        "lesson": 10,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "precies",
+        "en": "exactly",
+        "lesson": 10,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "speciaal",
+        "en": "special",
+        "lesson": 10,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "tijdens",
+        "en": "during",
+        "lesson": 10,
+        "category": "Oefening 4"
+    },
+    {
+        "nl": "altijd",
+        "en": "always",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "hagelen",
+        "en": "to hail",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "herfst (de)",
+        "en": "the Autumn",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "koud",
+        "en": "cold",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "lente (de)",
+        "en": "the Spring",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "meestal",
+        "en": "most of the time",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "nooit",
+        "en": "never",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "regenen",
+        "en": "to rain",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "schijnen",
+        "en": "to shine",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "seizoen (het)",
+        "en": "the season",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "sneeuwen",
+        "en": "to snow",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "soms",
+        "en": "sometimes",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "vaak",
+        "en": "often",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "vriezen",
+        "en": "to freeze",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "waaien",
+        "en": "to blow (wind)",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "warm",
+        "en": "warm",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "winter (de)",
+        "en": "the Winter",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "zomer (de)",
+        "en": "the Summer",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "zon (de)",
+        "en": "the sun",
+        "lesson": 10,
+        "category": "De seizoenen en het weer"
+    },
+    {
+        "nl": "bekijken",
+        "en": "to look at",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "belangrijk",
+        "en": "important",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "boeiend",
+        "en": "fascinating",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "brug (de)",
+        "en": "the bridge",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "gast (de)",
+        "en": "the guest",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "gebouw (het)",
+        "en": "the building",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "genieten van",
+        "en": "to enjoy",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "gracht (de)",
+        "en": "the city canal",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "gras (het)",
+        "en": "the grass",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "interessant",
+        "en": "interesting",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "museum (het)",
+        "en": "the museum",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "ontvangen",
+        "en": "to receive",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "paleis (het)",
+        "en": "the palace",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "richting",
+        "en": "towards, in the direction",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "rivier (de)",
+        "en": "of the river",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "rust (de)",
+        "en": "the rest, peace",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "stadswandeling (de)",
+        "en": "the city walk",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "starten",
+        "en": "to start",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "stromen",
+        "en": "to flow",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "stukje (het)",
+        "en": "the piece, bit",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "swingend",
+        "en": "swinging",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "verder",
+        "en": "further",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "vrolijk",
+        "en": "cheerful",
+        "lesson": 11,
+        "category": "Conversatie"
+    },
+    {
+        "nl": "berg (de)",
+        "en": "the mountain",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "bestaan",
+        "en": "to exist",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "bouwen",
+        "en": "to build",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "deel (het)",
+        "en": "the part",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "eiland (het)",
+        "en": "the island",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "haven (de)",
+        "en": "the port",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "helemaal",
+        "en": "completely",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "inwoner (de)",
+        "en": "the inhabitant",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "koningin (de)",
+        "en": "the queen",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "kwart (het)",
+        "en": "the quarter",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "monarchie (de)",
+        "en": "the monarchy",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "nationaliteit (de)",
+        "en": "the nationality",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "noord",
+        "en": "North",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "oost",
+        "en": "East",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "paal (de)",
+        "en": "the pole",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "regering (de)",
+        "en": "the government",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "sinds",
+        "en": "since",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "uitkijken",
+        "en": "to look out",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "weer",
+        "en": "again",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "wereld (de)",
+        "en": "the world",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "west",
+        "en": "West",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "zeespiegel (de)",
+        "en": "the sea level",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "zuid",
+        "en": "South",
+        "lesson": 11,
+        "category": "Weetjes over Nederland"
+    },
+    {
+        "nl": "alles",
+        "en": "everything",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "doen (in)",
+        "en": "to put ... in",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "heet",
+        "en": "hot",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "jus (de)",
+        "en": "the gravy",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "leggen",
+        "en": "to lay",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "pan (de)",
+        "en": "the pan",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "snijden",
+        "en": "to cut",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "stampen",
+        "en": "to mash",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "verwarmen",
+        "en": "to warm",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "water (het)",
+        "en": "the water",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "worst (de)",
+        "en": "the sausage",
+        "lesson": 11,
+        "category": "Oefening 9"
+    },
+    {
+        "nl": "bon (de)",
+        "en": "the receipt",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    },
+    {
+        "nl": "bonnetje (het)",
+        "en": "the receipt",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    },
+    {
+        "nl": "contant",
+        "en": "cash",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    },
+    {
+        "nl": "gerecht (het)",
+        "en": "the dish",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    },
+    {
+        "nl": "lekkernij (de)",
+        "en": "the delicacy",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    },
+    {
+        "nl": "ongeveer",
+        "en": "approximately, about",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    },
+    {
+        "nl": "pinnen",
+        "en": "to pay by card",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    },
+    {
+        "nl": "tasje (het)",
+        "en": "the (plastic) bag",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    },
+    {
+        "nl": "zoet",
+        "en": "sweet",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    },
+    {
+        "nl": "zout",
+        "en": "salt",
+        "lesson": 11,
+        "category": "Oefening 10 / In de winkel"
+    }
+]
