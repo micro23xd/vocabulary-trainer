@@ -19,6 +19,10 @@ yarn dev
 ./vocabulary
 ```
 
+## Quick round of 3
+
+You can play a quick round of 3 words with `./vocabulary --quick`.
+
 ## Config
 
 The config file is located at `./config.ts`. It contains the following fields:

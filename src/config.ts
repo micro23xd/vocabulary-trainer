@@ -22,4 +22,11 @@ const defaultConfig = {
     // selectiveLessons: [1, 2, 3],
 } as Config
 
-export { Config, defaultConfig }
+const quickConfig = {
+    askingLanguage: 'nl',
+    rounds: 3,
+    showHint: true,
+    // selectiveLessons: [1, 2, 3],
+} as Config
+
+export { Config, defaultConfig, quickConfig }
