@@ -103,17 +103,17 @@ export class VocabularyTrainer {
         let correct = 0
         let incorrect = 0
 
-        process.on('exit', function () {
+        process.on('exit',  () => {
             const score = Math.round((correct / (correct + incorrect)) * 100)
             const sentiment = score >= 60 ? '🚀' : '🤯'
 
             console.log(
-                `\n${sentiment} You got a score of ${score}% (${correct} correct and ${incorrect} incorrect answers)`
+                `\n${sentiment} You got a score of ${score}% (${correct} correct and ${incorrect} incorrect answers, ${this.config.rounds} rounds)`
             )
         })
 
-        while (index <= this.config.rounds) {
-            console.log(`\nRound ${index} of ${this.config.rounds}`)
+        while (index <= this.config.rounds || this.config.rounds === 0) {
+            console.log(`\nRound ${index}${this.config.rounds > 0 ?  ' of ' + this.config.rounds : '' }`)
             ;(await this.testVocabulary()) ? correct++ : incorrect++
             index++
         }
