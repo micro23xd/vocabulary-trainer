@@ -1,7 +1,7 @@
 import { Language, WordPair } from './vocabulary.types'
 import { Config } from '../config'
 
-export class VocabularyList {
+export class VocabularyTrainer {
     private readonly words: WordPair[] = []
     private readonly askingLanguage: Language
 
@@ -38,11 +38,16 @@ export class VocabularyList {
         return this.askingLanguage === 'en' ? 'nl' : 'en'
     }
 
+    private static compareWords(word1: string, word2: string): boolean {
+        return (
+            VocabularyTrainer.cleanWord(word1) ===
+            VocabularyTrainer.cleanWord(word2)
+        )
+    }
+
     private findTranslation(word: string): WordPair | undefined {
-        return this.words.find(
-            (wordPair) =>
-                VocabularyList.cleanWord(wordPair[this.askingLanguage]) ===
-                VocabularyList.cleanWord(word)
+        return this.words.find((wordPair) =>
+            VocabularyTrainer.compareWords(wordPair[this.askingLanguage], word)
         )
     }
 
@@ -67,9 +72,10 @@ export class VocabularyList {
             process.exit()
         }
 
-        const correct =
-            VocabularyList.cleanWord(result[this.askingLanguage]) ===
-            VocabularyList.cleanWord(wordPair[this.askingLanguage])
+        const correct = VocabularyTrainer.compareWords(
+            result[this.askingLanguage],
+            wordPair[this.askingLanguage]
+        )
 
         console.log(`You were ${correct ? 'correct ✅' : 'incorrect ❌'}!`)
         console.log(`The correct answer is: ${wordPair[this.askingLanguage]}`)
