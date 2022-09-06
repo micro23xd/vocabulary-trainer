@@ -3,8 +3,11 @@ import { Config } from '../config'
 
 export class VocabularyList {
     private readonly words: WordPair[] = []
+    private readonly askingLanguage: Language
 
-    constructor(private prompt: any, private readonly config: Config) {}
+    constructor(private prompt: any, private readonly config: Config) {
+        this.askingLanguage = config.askingLanguage
+    }
 
     public importLesson(list: WordPair[]): void {
         if (this.config.selectiveLessons) {
@@ -32,11 +35,18 @@ export class VocabularyList {
     }
 
     private getPromptLanguage(): Language {
-        return this.config.askingLanguage === 'en' ? 'nl' : 'en'
+        return this.askingLanguage === 'en' ? 'nl' : 'en'
+    }
+
+    private findTranslation(word: string): WordPair | undefined {
+        return this.words.find(
+            (wordPair) =>
+                VocabularyList.cleanWord(wordPair[this.askingLanguage]) ===
+                VocabularyList.cleanWord(word)
+        )
     }
 
     public async testVocabulary(): Promise<boolean> {
-        const { askingLanguage } = this.config
         let result
 
         if (this.words.length === 0) {
@@ -52,17 +62,31 @@ export class VocabularyList {
             )
 
         try {
-            result = await this.prompt.get([askingLanguage])
+            result = await this.prompt.get([this.askingLanguage])
         } catch (e) {
             process.exit()
         }
 
         const correct =
-            VocabularyList.cleanWord(result[askingLanguage]) ===
-            VocabularyList.cleanWord(wordPair[askingLanguage])
+            VocabularyList.cleanWord(result[this.askingLanguage]) ===
+            VocabularyList.cleanWord(wordPair[this.askingLanguage])
 
         console.log(`You were ${correct ? 'correct ✅' : 'incorrect ❌'}!`)
-        console.log(`The correct answer is: ${wordPair[askingLanguage]}\n`)
+        console.log(`The correct answer is: ${wordPair[this.askingLanguage]}`)
+        if (!correct) {
+            const translation = this.findTranslation(
+                result[this.askingLanguage]
+            )
+            if (translation) {
+                console.log(
+                    `You answered: ${
+                        result[this.askingLanguage]
+                    }, which is the translation of: ${
+                        translation[this.getPromptLanguage()]
+                    }`
+                )
+            }
+        }
 
         if (correct) this.words.splice(index, 1)
         return correct
@@ -83,7 +107,7 @@ export class VocabularyList {
         })
 
         while (index <= this.config.rounds) {
-            console.log(`Round ${index} of ${this.config.rounds}`)
+            console.log(`\nRound ${index} of ${this.config.rounds}`)
             ;(await this.testVocabulary()) ? correct++ : incorrect++
             index++
         }
